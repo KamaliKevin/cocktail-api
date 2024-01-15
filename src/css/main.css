@@ -1,0 +1,26 @@
+.bg-violet {
+    background-color: #490049;
+}
+
+.bg-lightyellow {
+    background-color: #cece00;
+}
+
+.bg-lightgrey {
+    background-color: #b0b0b0;
+}
+
+.bg-palegrey {
+    background-color: lightgrey;
+}
+
+.btn-dark-warning {
+    background-color: #151515;
+    color: #cece00;
+    border: 1px solid #151515;
+}
+
+.btn-dark-warning:hover {
+    background-color: #2a2a2a;
+    border: 1px solid #2a2a2a;
+}
